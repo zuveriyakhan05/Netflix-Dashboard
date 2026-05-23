@@ -16,8 +16,7 @@ Global Netflix content availability
 The project uses a modern Netflix-inspired dark theme with red accents for a professional and visually appealing dashboard design.
 
 # Dashboard Preview
-
-# Main Features
+ Main Features
 
 Interactive slicers
 Dynamic filtering
@@ -28,8 +27,7 @@ Ratings insights
 Professional dashboard layout
 
 # Data Cleaning Process
-
-# Data cleaning was performed before visualization.
+ Data cleaning was performed before visualization.
 
 Cleaning Steps
 Removed duplicate records
@@ -41,8 +39,7 @@ Created helper fields
 Optimized columns for dashboard use
 
 # Dashboard Theme
-
-# Design Style
+ Design Style
 
 Dark Netflix-inspired UI
 Red accent colors
